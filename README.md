@@ -1,5 +1,5 @@
-#Demo
-#Test
+Demo
+Test
 #practice the git commond line
 #the common common
 # git config --global user.name "anchunhuigithub"
@@ -9,7 +9,7 @@
 ## add file
 # git add file
 ## commit file
-# git commit file -m "introduce"
+#git commit file -m "introduce"
 ## connect remote address throw ssh or https
 # git remote add origin1 sshaddress
 ## git push -u origin1 to the master branch

@@ -14,3 +14,4 @@ Test
 # git remote add origin1 sshaddress
 ## git push -u origin1 to the master branch
 # git push -u origin1 master
+# 合并分支，分支管理的练习
